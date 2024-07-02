@@ -20,3 +20,9 @@ Hello! I'm ASM Shahrier Parvaz, a passionate developer with experience in variou
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## Current Overview
+
+👨‍💻 I am exploring **React**, **JavaScript**, **MySQL**, and **Express**.  
+🔍 I am looking for a remote full/part-time job.  
+🌱 I am trying to learn **web development** and **competitive programming**.
