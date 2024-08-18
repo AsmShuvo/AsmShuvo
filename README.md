@@ -29,6 +29,10 @@ Hello! I'm ASM Shahrier Parvaz, a passionate frontend web developer with experie
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+### Programming Skill
+![DSA](https://img.shields.io/badge/-DSA-00599C?style=flat-square&logo=code&logoColor=white)
+Solved 1000+ Problems on Codeforces, Vjudge, and Leetcode
+
 
 ## Current Overview
 
