@@ -36,6 +36,6 @@ Solved 1000+ Problems on Codeforces, Vjudge, and Leetcode
 
 ## Current Overview
 
-👨‍💻 I am exploring **React**, **JavaScript**, **MySQL**, and **Express**.  
-🔍 I am looking for a remote full/part-time job.  
+👨‍💻 I am exploring **React**, **JavaScript**, **MySQL**, and **Express**.   
 🌱 I am trying to learn **web development** and **competitive programming**.
+🌱 I solve programming problems on various online judges regularly.
