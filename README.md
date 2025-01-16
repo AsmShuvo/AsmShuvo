@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm ASM Shahrier Parvaz, a passionate frontend web developer with experience in various technologies.
+Hello! I'm ASM Shahrier Parvaz, a passionate full-stack web developer and problem solver.
 
 ## Skills
 
