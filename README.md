@@ -30,8 +30,7 @@ Hello! I'm ASM Shahrier Parvaz, a passionate full-stack web developer and proble
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### Programming Skill
-![DSA](https://img.shields.io/badge/-DSA-00599C?style=flat-square&logo=code&logoColor=white)
-[![Codeforces](https://img.shields.io/badge/Codeforces-00599C?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Null_Pointerrrr)
+[![Codeforces Handle](https://img.shields.io/badge/Codeforces-00599C?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Null_Pointerrrr)
 
 
 
