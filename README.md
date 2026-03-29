@@ -26,7 +26,8 @@
 ## About Me
 
 I’m **ASM Shahrier Parvaz**, a passionate **full-stack developer** and **competitive programmer**.
-** Education: ** Bsc in ** Computer Science & Engineering** at **Shahjalal University of Science & Technology, Sylhet**
+
+**Education**: BSc in **Computer Science & Engineering** at **Shahjalal University of Science & Technology, Sylhet**.
 
 ---
 
@@ -35,13 +36,13 @@ I’m **ASM Shahrier Parvaz**, a passionate **full-stack developer** and **compe
 ### SUST Smart Attendance System (AI-Powered)
 An intelligent platform that **automatically marks attendance from CCTV feeds** and analyzes **facial expressions** for engagement and alertness.
 
-**Tech Stack**
-- MERN (MongoDB, Express, React, Node.js)
-- Python, OpenCV, DeepFace
-- TensorFlow / PyTorch
+**Tech Stack**  
+- MERN (MongoDB, Express, React, Node.js)  
+- Python, OpenCV, DeepFace  
+- TensorFlow / PyTorch  
 - REST APIs
 
-**Key Features**
+**Key Features**  
 - Multi-face detection & tracking  
 - Face-embedding based identity matching  
 - Liveness detection (anti-spoofing)  
@@ -50,18 +51,23 @@ An intelligent platform that **automatically marks attendance from CCTV feeds** 
 
 ---
 
-## Competitive Programming Snapshot
+## Hackathon Experience
 
-| Platform      | Status |
-|---------------|--------|
-| 🟦 **Codeforces** | Specialist (1442) |
-| 🟨 **LeetCode**   | **1000+ problems solved** |
-| 🟫 **CodeChef**   | 3★ |
-| 🧠 **Core Strengths** | DSA, OOP, Graphs, DP, Greedy, Math |
-
-🏆 **43rd place** — *Samsung R&D Institute Bangladesh Code Contest 2025 (Round 1)*
+### 1st Runners-up - **CUET API Avengers Televerse 1.0** (2025)  
+Built a high-performance microservices system using **Redis**, **RabbitMQ**, **CQRS**, and **transactional outbox** for secure and fast payment processing.
 
 ---
+
+## Competitive Programming Snapshot
+
+| Platform      | Status | Solve Count |
+|---------------|--------|-------------|
+| 🟦 **Codeforces** | Specialist (1462 Max) | 1000+ Problems Solved
+| 🟨 **LeetCode**   |  | 280+ Problems Solved
+| 🟫 **CodeChef**   | 3★ | Only contests
+| 🧠 **Core Knowledge on** | DSA, OOP, DBMS|
+
+🏆 **43rd place** — *Samsung R&D Institute Bangladesh Code Contest 2025 (Round 1)*
 
 ---
 
@@ -94,7 +100,5 @@ An intelligent platform that **automatically marks attendance from CCTV feeds** 
 - Shipping MVP of **SUST Smart Attendance System**
 - Benchmarking **face-embedding & ML pipelines**
 - Daily problem-solving on **Codeforces & LeetCode**
-
----
 
 ---
