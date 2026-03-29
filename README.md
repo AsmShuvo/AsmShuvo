@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Null_Pointerrrr">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist%201442-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-Specialist%201462-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/K5EPZGy4nq/">
-    <img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-280%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/null_pointerrr">
     <img src="https://img.shields.io/badge/CodeChef-3★-8B4513?style=for-the-badge&logo=codechef&logoColor=white" />
