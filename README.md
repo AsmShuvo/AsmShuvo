@@ -40,20 +40,7 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 <table>
 <tr>
-<td width="10px" style="padding: 0;">
 
-```
-│
-●
-│
-│
-●
-│
-│
-●
-```
-
-</td>
 <td>
 
 ### 🔵 Software Engineer Intern
