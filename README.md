@@ -38,31 +38,57 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 ## 💼 Experience
 
----
+<table>
+<tr>
+<td width="10px" style="padding: 0;">
 
-**Software Engineer Intern** | Apr 2026 – Present
-Samsung R&D Institute Bangladesh · Dhaka, Bangladesh
+```
+│
+●
+│
+│
+●
+│
+│
+●
+```
 
-- Proactively validated software functionality before release using custom internal tools and Docker containerization to ensure production stability.
+</td>
+<td>
+
+### 🔵 Software Engineer Intern
+**Samsung R&D Institute Bangladesh** &nbsp;·&nbsp; 📍 Dhaka, Bangladesh &nbsp;·&nbsp; `Apr 2026 – Present`
+
+- Proactively validated software functionality before release using custom internal tools and **Docker** containerization to ensure production stability.
 - Conducted usability testing and prepared release documentation.
 - Performed bug fixes and code refactoring based on product reviews and post-release feedback.
 
----
-
-**Frontend Designer Intern** | Jul 2025 – Sept 2025
-Mindwave Synergies · Rangpur, Bangladesh
-
-- Designed and developed responsive React components using TailwindCSS, Flowbite and DaisyUI.
-- Tested APIs with Postman and Thunder Client and integrated dynamic content using Axios for real-time rendering.
+`Docker` `QA` `Release Docs` `Code Refactoring`
 
 ---
 
-**RLHF Contributor & QA** | May 2024 – May 2025
-Outlier.ai · Remote
+### 🟢 Frontend Designer Intern
+**Mindwave Synergies** &nbsp;·&nbsp; 📍 Rangpur, Bangladesh &nbsp;·&nbsp; `Jul 2025 – Sept 2025`
 
-- Evaluated and corrected LLM-generated coding outputs; debugged backend logic including SQL, JavaScript and Python.
+- Designed and developed responsive React components using **TailwindCSS**, Flowbite and DaisyUI.
+- Tested APIs with Postman and Thunder Client; integrated dynamic content using **Axios** for real-time rendering.
+
+`React` `TailwindCSS` `Axios` `Postman` `DaisyUI`
+
+---
+
+### 🟠 RLHF Contributor & QA
+**Outlier.ai** &nbsp;·&nbsp; 📍 Remote &nbsp;·&nbsp; `May 2024 – May 2025`
+
+- Evaluated and corrected LLM-generated coding outputs; debugged backend logic including **SQL**, JavaScript and Python.
 - Validated API agents by testing endpoints and fixing incorrect calls.
-- Created adversarial prompts and labeled outputs to improve training quality.
+- Created adversarial prompts and labeled outputs to improve training data quality.
+
+`LLM Eval` `Prompt Engineering` `API Testing` `Python` `SQL`
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Current Focus
