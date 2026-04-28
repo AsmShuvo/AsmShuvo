@@ -71,7 +71,7 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 - Validated API agents by testing endpoints and fixing incorrect calls.
 - Created adversarial prompts and labeled outputs to improve training data quality.
 
-`LLM Eval` `Prompt Engineering` `API Testing` `Python` `SQL`
+`LLM Eval` `Prompt Engineering` `API Testing` `Python` `SQL` `Javascript`
 
 </td>
 </tr>
