@@ -50,7 +50,7 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 - Conducted usability testing and prepared release documentation.
 - Performed bug fixes and code refactoring based on product reviews and post-release feedback.
 
-`Docker` `QA` `Release Docs` `Code Refactoring`
+`Docker` `R&D Ops` `Release Docs` `Code Refactoring`
 
 ---
 
