@@ -36,6 +36,35 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 ---
 
+## 💼 Experience
+
+---
+
+**Software Engineer Intern** | Apr 2026 – Present
+Samsung R&D Institute Bangladesh · Dhaka, Bangladesh
+
+- Proactively validated software functionality before release using custom internal tools and Docker containerization to ensure production stability.
+- Conducted usability testing and prepared release documentation.
+- Performed bug fixes and code refactoring based on product reviews and post-release feedback.
+
+---
+
+**Frontend Designer Intern** | Jul 2025 – Sept 2025
+Mindwave Synergies · Rangpur, Bangladesh
+
+- Designed and developed responsive React components using TailwindCSS, Flowbite and DaisyUI.
+- Tested APIs with Postman and Thunder Client and integrated dynamic content using Axios for real-time rendering.
+
+---
+
+**RLHF Contributor & QA** | May 2024 – May 2025
+Outlier.ai · Remote
+
+- Evaluated and corrected LLM-generated coding outputs; debugged backend logic including SQL, JavaScript and Python.
+- Validated API agents by testing endpoints and fixing incorrect calls.
+- Created adversarial prompts and labeled outputs to improve training quality.
+---
+
 ## 🚀 Current Focus
 
 ### SUST Smart Attendance System (AI-Powered)
