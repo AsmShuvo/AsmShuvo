@@ -43,7 +43,7 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 <td>
 
-### 🟢 Frontend Designer Intern
+### 🟢 Frontend Developer Intern
 **Mindwave Synergies** &nbsp;·&nbsp; 📍 Rangpur, Bangladesh &nbsp;·&nbsp; `Jul 2025 – Sept 2025`
 
 - Designed and developed responsive React components using **TailwindCSS**, Flowbite and DaisyUI.
