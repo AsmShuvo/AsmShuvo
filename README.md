@@ -43,17 +43,6 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 <td>
 
-### 🔵 Software Engineer Intern
-**Samsung R&D Institute Bangladesh** &nbsp;·&nbsp; 📍 Dhaka, Bangladesh &nbsp;·&nbsp; `Apr 2026 – Present`
-
-- Proactively validated software functionality before release using custom internal tools and **Docker** containerization to ensure production stability.
-- Conducted usability testing and prepared release documentation.
-- Performed bug fixes and code refactoring based on product reviews and post-release feedback.
-
-`Docker` `R&D Ops` `Release Docs` `Code Refactoring`
-
----
-
 ### 🟢 Frontend Designer Intern
 **Mindwave Synergies** &nbsp;·&nbsp; 📍 Rangpur, Bangladesh &nbsp;·&nbsp; `Jul 2025 – Sept 2025`
 
