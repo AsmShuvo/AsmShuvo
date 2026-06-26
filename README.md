@@ -99,7 +99,7 @@ Built a high-performance microservices system using **Redis**, **RabbitMQ**, **C
 
 | Platform | Rating / Status | Solve Count |
 |---|---|---|
-| 🟦 **Codeforces** | Specialist · Max 1497 | 1000+ Problems |
+| 🟦 **Codeforces** | Specialist · Max 1502 | 1000+ Problems |
 | 🟨 **LeetCode** | — | 280+ Problems |
 | 🟫 **CodeChef** | 3★ | Contest-only |
 
