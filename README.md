@@ -25,7 +25,7 @@
 
 ## 👤 About Me
 
-I'm **ASM Shahrier Parvaz** — a passionate ![Dev](https://img.shields.io/badge/Full--Stack%20Developer-7C3AED?style=flat-square&logoColor=white) ![CP](https://img.shields.io/badge/Competitive%20Programmer-2563EB?style=flat-square&logoColor=white) ![RLHF](https://img.shields.io/badge/RLHF%20Contributor-0EA5E9?style=flat-square&logoColor=white) ![QA](https://img.shields.io/badge/QA-F59E0B?style=flat-square&logoColor=white)
+I'm **ASM Shahrier Parvaz** — a passionate ![Dev](https://img.shields.io/badge/Full--Stack%20Developer-7C3AED?style=flat-square&logoColor=white) ![CP](https://img.shields.io/badge/Competitive%20Programmer-2563EB?style=flat-square&logoColor=white) ![RLHF](https://img.shields.io/badge/RLHF%20Contributor-0EA5E9?style=flat-square&logoColor=white)
 
 I enjoy building systems that are fast, intelligent, and production-ready — from microservices to ML pipelines.
 
