@@ -126,11 +126,6 @@ Built a high-performance microservices system using **Redis**, **RabbitMQ**, **C
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,redis" />
