@@ -128,7 +128,7 @@ Built a high-performance microservices system using **Redis**, **RabbitMQ**, **C
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" />
 </p>
 
 ---
