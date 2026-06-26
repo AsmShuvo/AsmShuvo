@@ -31,8 +31,6 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 🎓 **Education:** BSc in Computer Science & Engineering · Shahjalal University of Science & Technology, Sylhet
 
-**Core Knowledge:**
-`DSA` `OOP` `DBMS` `Networking` `Operating Systems` `Computer Architecture` `Cloud Basics`
 
 ---
 
