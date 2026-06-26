@@ -67,7 +67,7 @@ I enjoy building systems that are fast, intelligent, and production-ready — fr
 
 ## 🚀 Current Focus
 
-### SUST Smart Attendance System (AI-Powered)
+### SUST Automatic Attendance System with Face Recognition (AI-Powered)
 
 > 🟢 **Officially budgeted by SUST** — deploying in the IICT building for real-world testing
 
